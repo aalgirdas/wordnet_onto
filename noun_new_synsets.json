@@ -1,0 +1,10 @@
+{
+    "copy": [
+        {
+            "data_source": "senseval2.d"
+        }
+    ]
+}
+
+
+
