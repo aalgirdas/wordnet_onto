@@ -4,6 +4,9 @@ absence%1:28:00::	absence%1:26:00::
 action%1:04:04::	action%1:04:02::
 addiction%1:04:00::	DELETE
 addition%1:15:00::	DELETE
+addition%1:04:02::	addition%1:06:00::
+addition%1:21:00::	addition%1:06:00::
+addition%1:23:00::	addition%1:06:00::
 deal%1:10:00::	deal%1:04:02::
 deal%1:11:00::	deal%1:04:02::
 imagine%2:31:01::	imagine%2:36:00::
