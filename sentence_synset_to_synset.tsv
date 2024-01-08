@@ -7,3 +7,6 @@ senseval3.d002.s024	air%1:27:00::	air%1:15:00::
 d024.s051	amount%1:09:00::	amount%1:21:00::
 d060.s051	amount%1:07:00::	amount%1:21:00::
 d053.s049	amount%1:07:00::	amount%1:21:00::
+d170.s047	amount%1:09:00::	amount%1:07:00::
+d109.s030	amount%1:09:00::	amount%1:07:00::
+
