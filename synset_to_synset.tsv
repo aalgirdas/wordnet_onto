@@ -17,6 +17,9 @@ alarm%1:10:00::	alarm%1:06:00::
 amount%1:03:00::	amount%1:07:00::
 annoyance%1:12:00::	annoyance%1:26:00::
 appeal%1:10:02::	appeal%1:10:00::
+appreciation%1:09:01::	appreciation%1:09:00::
+appreciation%1:10:00::	appreciation%1:09:00::
+appreciation%1:04:00::	appreciation%1:09:00::
 deal%1:10:00::	deal%1:04:02::
 deal%1:11:00::	deal%1:04:02::
 imagine%2:31:01::	imagine%2:36:00::
