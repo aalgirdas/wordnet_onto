@@ -32,6 +32,8 @@ assessment%1:21:00::	assessment%1:09:00::
 assessment%1:07:00::	assessment%1:09:00::
 assumption%1:10:00::	assumption%1:09:00::
 assumption%1:04:01::	assumption%1:09:00::
+assumption%1:28:00::	DELETE
+assumption%1:11:00::	DELETE
 deal%1:10:00::	deal%1:04:02::
 deal%1:11:00::	deal%1:04:02::
 imagine%2:31:01::	imagine%2:36:00::
