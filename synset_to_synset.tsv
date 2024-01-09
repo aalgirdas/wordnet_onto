@@ -24,6 +24,7 @@ area%1:06:00::	area%1:15:01::
 area%1:08:00::	area%1:15:01::
 area%1:26:00::	area%1:09:00::
 array%1:10:00::	array%1:14:00::
+arrival%1:04:01::	arrival%1:04:00::
 deal%1:10:00::	deal%1:04:02::
 deal%1:11:00::	deal%1:04:02::
 imagine%2:31:01::	imagine%2:36:00::
