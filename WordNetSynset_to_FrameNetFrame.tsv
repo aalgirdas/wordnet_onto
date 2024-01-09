@@ -4,5 +4,7 @@ area%1:08:00::	Locale
 area%1:26:00::	Fields
 area%1:06:00::	Locale
 area%1:07:00::	Dimension
+assessment%1:09:00::	Assessing
+assessment%1:04:00::	Examination
 
 
