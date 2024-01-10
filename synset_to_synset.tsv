@@ -10,6 +10,8 @@ band%1:06:03::	band%1:06:00::
 barrel%1:23:04::	barrel%1:23:01::
 barrels%1:23:00::	barrel%1:23:01::
 basis%1:24:01::	basis%1:24:00::
+basket%1:04:00::	DELETE
+basket%1:06:01::	DELETE
 
 absence%1:04:00::	absence%1:26:00::
 absence%1:04:00::	absence%1:26:00::
