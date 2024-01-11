@@ -16,10 +16,9 @@ bath%1:06:00::	DELETE
 beat%1:18:00::	DELETE
 beat%1:11:00::	beat%1:07:00::
 beat%1:11:01::	beat%1:07:00::
-
 behavior%1:07:00::	behavior%1:04:00::
 behavior%1:04:01::	behavior%1:04:00::
-
+bill%1:10:00::	DELETE
 
 absence%1:04:00::	absence%1:26:00::
 absence%1:04:00::	absence%1:26:00::
