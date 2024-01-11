@@ -23,10 +23,12 @@ bill%1:10:06::	DELETE
 bill%1:04:00::	DELETE
 bill%1:06:00::	DELETE
 bill%1:06:01::	DELETE
-
 birth%1:11:00::	birth%1:28:00::
 birth%1:22:00::	birth%1:28:00::
 birth%1:18:00::	birth%1:28:00::
+
+bit%1:17:00::	bit%1:23:01::
+bit%1:11:00::	bit%1:23:01::
 
 absence%1:04:00::	absence%1:26:00::
 absence%1:04:00::	absence%1:26:00::
