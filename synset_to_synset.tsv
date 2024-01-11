@@ -21,7 +21,8 @@ behavior%1:04:01::	behavior%1:04:00::
 bill%1:10:00::	DELETE
 bill%1:10:06::	DELETE
 bill%1:04:00::	DELETE
-
+bill%1:06:00::	DELETE
+bill%1:06:01::	DELETE
 
 
 absence%1:04:00::	absence%1:26:00::
