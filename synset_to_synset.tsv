@@ -32,10 +32,12 @@ bit%1:13:00::	bit%1:23:01::
 bluff%1:04:00::	bluff%1:10:00::
 boost%1:04:01::	boost%1:04:00::
 bottom%1:15:01::	bottom%1:15:00::
-
 box%1:04:00::	DELETE
 box%1:06:04::	DELETE
 box%1:20:00::	DELETE
+
+brain%1:09:01::	brain%1:08:00::
+brain%1:13:00::	brain%1:08:00::
 
 
 absence%1:04:00::	absence%1:26:00::
