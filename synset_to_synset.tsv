@@ -1,5 +1,6 @@
 card%1:10:03::	DELETE
 cards%1:04:00::	DELETE
+penalty_card_number	penalty_card
 
 absence%1:04:00::	absence%1:26:00::
 absence%1:04:00::	absence%1:26:00::
