@@ -30,11 +30,18 @@ d000.s079	benefit%1:07:00::	benefit%1:21:00::
 d039.s042	benefit%1:07:00::	benefit%1:21:00::
 senseval3.d001.s010	benefit%1:07:00::	benefit%1:21:00::
 senseval3.d001.s016	benefit%1:07:00::	benefit%1:21:00::
-
 d047.s044	business%1:04:01::	business%1:09:01::
 d057.s075	business%1:14:00::	business%1:09:01::
 d087.s188	business%1:14:00::	business%1:09:01::
 d018.s056	business%1:14:00::	business%1:04:01::
+
+semeval2013.d006.s003	card%1:27:00::	penalty_card
+semeval2013.d006.s004	card%1:27:00::	penalty_card_number
+semeval2013.d006.s006	card%1:27:00::	penalty_card_number
+semeval2013.d006.s018	card%1:27:00::	penalty_card_number
+semeval2013.d006.s019	card%1:27:00::	penalty_card_number
+
+  
 
 
 
