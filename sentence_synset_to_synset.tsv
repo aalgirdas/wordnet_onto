@@ -35,7 +35,7 @@ d057.s075	business%1:14:00::	business%1:09:01::
 d087.s188	business%1:14:00::	business%1:09:01::
 d018.s056	business%1:14:00::	business%1:04:01::
 semeval2013.d006.s003	card%1:27:00::	penalty_card
-semeval2013.d006.s004	card%1:27:00::	penalty_card_number
+semeval2013.d006.s004	card%1:27:00::	penalty_card
 semeval2013.d006.s006	card%1:27:00::	penalty_card
-semeval2013.d006.s018	card%1:27:00::	penalty_card_number
-semeval2013.d006.s019	card%1:27:00::	penalty_card_number
+semeval2013.d006.s018	card%1:27:00::	penalty_card
+semeval2013.d006.s019	card%1:27:00::	penalty_card
