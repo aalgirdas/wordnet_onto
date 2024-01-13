@@ -16,7 +16,8 @@ change%1:21:01::	change%1:21:02::
 change%1:21:03::	change%1:21:02::
 change%1:06:01::	DELETE
 change%1:06:00::	DELETE
-
+characteristic%1:07:00::	characteristic%1:09:00::
+characteristic%1:10:00::	DELETE
 
 absence%1:04:00::	absence%1:26:00::
 absence%1:04:00::	absence%1:26:00::
