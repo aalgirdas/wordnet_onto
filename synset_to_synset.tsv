@@ -6,10 +6,17 @@ case%1:09:00::	case%1:11:00::
 case%1:10:02::	case%1:11:00::
 case%1:06:03::	case%1:06:00::
 case%1:06:06::	case%1:06:00::
-
 center%1:18:01::	center%1:18:00::
 center%1:18:02::	center%1:18:00::
 center%1:15:00::	center%1:15:01::
+change%1:19:00::	change%1:11:00::
+change%1:04:00::	change%1:11:00::
+change%1:24:00::	change%1:11:00::
+change%1:21:01::	change%1:21:02::
+change%1:21:03::	change%1:21:02::
+change%1:06:01::	DELETE
+change%1:06:00::	DELETE
+
 
 absence%1:04:00::	absence%1:26:00::
 absence%1:04:00::	absence%1:26:00::
