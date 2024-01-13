@@ -39,3 +39,5 @@ semeval2013.d006.s004	card%1:27:00::	penalty_card
 semeval2013.d006.s006	card%1:27:00::	penalty_card
 semeval2013.d006.s018	card%1:27:00::	penalty_card
 semeval2013.d006.s019	card%1:27:00::	penalty_card
+
+semeval2013.d006.s018	championship%1:11:00::	championship%1:26:00::
