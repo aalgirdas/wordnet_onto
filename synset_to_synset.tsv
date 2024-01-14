@@ -33,6 +33,9 @@ claim%1:04:00::	claim%1:10:00::
 claim%1:07:02::	claim%1:10:00::
 
 cloud%1:26:01::	DELETE
+cloud%1:26:02::	DELETE
+cloud%1:26:00::	DELETE
+cloud%1:14:00::	DELETE
 
 
 
