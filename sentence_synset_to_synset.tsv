@@ -40,10 +40,14 @@ semeval2013.d006.s006	card%1:27:00::	penalty_card
 semeval2013.d006.s018	card%1:27:00::	penalty_card
 semeval2013.d006.s019	card%1:27:00::	penalty_card
 semeval2013.d006.s018	championship%1:11:00::	championship%1:26:00::
-
 d009.s032	claim%1:10:02::	claim%1:10:00::
 semeval2013.d012.s019	claim%1:10:02::	claim%1:10:00::
 d036.s013	claim%1:10:00::	claim%1:10:02::
 d173.s060	claim%1:10:00::	claim%1:10:02::
+
+senseval3.d002.s056	cloud%1:19:01::	flammagenitus_cloud
+
+
+
 
 
