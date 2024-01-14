@@ -31,12 +31,12 @@ circumstances%1:21:00::	circumstance%1:26:01::
 circumstances%1:26:02::	circumstance%1:26:01::
 claim%1:04:00::	claim%1:10:00::
 claim%1:07:02::	claim%1:10:00::
-
 cloud%1:26:01::	DELETE
 cloud%1:26:02::	DELETE
 cloud%1:26:00::	DELETE
 cloud%1:14:00::	DELETE
 
+color%1:07:01::	color%1:07:00::
 
 
 absence%1:04:00::	absence%1:26:00::
