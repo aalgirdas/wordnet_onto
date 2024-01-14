@@ -35,9 +35,9 @@ cloud%1:26:01::	DELETE
 cloud%1:26:02::	DELETE
 cloud%1:26:00::	DELETE
 cloud%1:14:00::	DELETE
-
 color%1:07:01::	color%1:07:00::
 
+combination%1:04:00::	combination%1:14:00::
 
 absence%1:04:00::	absence%1:26:00::
 absence%1:04:00::	absence%1:26:00::
