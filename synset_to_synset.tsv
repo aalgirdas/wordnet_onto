@@ -50,7 +50,9 @@ condition%1:09:00::	condition%1:26:00::
 conditions%1:19:00::	condition%1:26:00::
 conditions%1:26:03::	condition%1:26:00::
 conditions%1:26:04::	condition%1:26:00::
-
+country%1:15:00::	country%1:14:00::
+country%1:14:01::	country%1:14:00::
+country%1:15:02::	country%1:14:00::
 
 
 
