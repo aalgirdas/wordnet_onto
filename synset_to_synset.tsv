@@ -99,6 +99,9 @@ attraction%1:10:00::	attraction%1:07:00::
 authority%1:14:00::	authority%1:18:01::
 authorities%1:14:00::	authority%1:18:01::
 authority%1:07:02::	authority%1:07:00::
+deal%1:10:00::	deal%1:04:02::
+decision%1:09:00::	decision%1:04:00::
+
 
 back%1:08:01::	back%1:08:00::
 back%1:06:01::	back%1:06:00::
