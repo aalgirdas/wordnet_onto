@@ -39,9 +39,20 @@ color%1:07:01::	color%1:07:00::
 combination%1:04:00::	combination%1:14:00::
 company%1:18:00::	company%1:26:00::
 concentration%1:07:01::	concentration%1:09:00::
+concern%1:09:01::	concern%1:12:01::
+concern%1:09:01::	concern%1:12:01::
+condition%1:26:01::	condition%1:26:00::
+condition%1:26:02::	condition%1:26:00::
+condition%1:26:05::	condition%1:26:00::
+condition%1:09:01::	condition%1:26:00::
+condition%1:10:02::	condition%1:26:00::
+condition%1:09:00::	condition%1:26:00::
+conditions%1:19:00::	condition%1:26:00::
+conditions%1:26:03::	condition%1:26:00::
+conditions%1:26:04::	condition%1:26:00::
 
-concern%1:09:01::	concern%1:12:01::
-concern%1:09:01::	concern%1:12:01::
+
+
 
 absence%1:04:00::	absence%1:26:00::
 absence%1:04:00::	absence%1:26:00::
