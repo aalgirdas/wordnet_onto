@@ -70,7 +70,6 @@ end%1:04:02::	DELETE
 family%1:14:00::	family%1:14:02::
 family%1:14:01::	family%1:14:02::
 family%1:14:05::	DELETE
-
 field%1:14:01::	DELETE
 field%1:14:02::	DELETE
 field%1:04:00::	field%1:09:00::
@@ -79,6 +78,9 @@ field%1:17:00::	field%1:15:00::
 field%1:15:02::	field%1:15:00::
 field%1:15:01::	field%1:15:00::
 field%1:15:03::	field%1:15:00::
+
+figure%1:07:01::	figure%1:21:00::
+
 
 
 absence%1:04:00::	absence%1:26:00::
