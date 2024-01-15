@@ -60,6 +60,10 @@ education%1:09:01::	education%1:04:00::
 education%1:04:01::	education%1:04:00::
 education%1:07:01::	education%1:09:00::
 
+element%1:26:00::	DELETE
+
+
+
 absence%1:04:00::	absence%1:26:00::
 absence%1:04:00::	absence%1:26:00::
 absence%1:28:00::	absence%1:26:00::
