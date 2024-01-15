@@ -55,6 +55,10 @@ country%1:14:01::	country%1:14:00::
 country%1:15:02::	country%1:14:00::
 dollar%1:10:00::	dollar%1:23:00::
 door%1:06:01::	door%1:06:00::
+education%1:14:00::	education%1:04:00::
+education%1:09:01::	education%1:04:00::
+education%1:04:01::	education%1:04:00::
+education%1:07:01::	education%1:09:00::
 
 absence%1:04:00::	absence%1:26:00::
 absence%1:04:00::	absence%1:26:00::
