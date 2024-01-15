@@ -67,12 +67,12 @@ employment%1:04:02::	employment%1:26:00::
 employment%1:04:00::	employment%1:26:00::
 end%1:04:00::	DELETE
 end%1:04:02::	DELETE
-
 family%1:14:00::	family%1:14:02::
 family%1:14:01::	family%1:14:02::
 family%1:14:05::	DELETE
 
-
+field%1:14:01::	DELETE
+field%1:14:02::	DELETE
 
 
 absence%1:04:00::	absence%1:26:00::
