@@ -79,7 +79,8 @@ field%1:15:02::	field%1:15:00::
 field%1:15:01::	field%1:15:00::
 field%1:15:03::	field%1:15:00::
 
-figure%1:07:01::	figure%1:21:00::
+figure%1:21:00::	figure%1:23:00::
+figure%1:07:01::	figure%1:23:00::
 
 
 
