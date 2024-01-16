@@ -46,11 +46,18 @@ d036.s013	claim%1:10:00::	claim%1:10:02::
 d173.s060	claim%1:10:00::	claim%1:10:02::
 senseval3.d002.s056	cloud%1:19:01::	flammagenitus_cloud
 03054311.1	club%1:06:02::	club%1:14:00::
-
 semeval2013.d003.s010	concern%1:09:00::	concern%1:12:01::
 semeval2013.d003.s001	concern%1:09:00::	concern%1:12:01::
 senseval3.d001.s035	concern%1:09:00::	concern%1:12:01::
 
+
+semeval2015.d001.s018	function%1:24:00::	function%1:10:00::
+semeval2015.d001.s016	function%1:24:00::	function%1:10:00::
+semeval2015.d001.s019	function%1:24:00::	function%1:10:00::
+semeval2015.d001.s050	function%1:24:00::	function%1:10:00::
+semeval2015.d001.s048	function%1:24:00::	function%1:10:00::
+semeval2015.d001.s047	function%1:24:00::	function%1:10:00::
+semeval2015.d001.s008	function%1:24:00::	function%1:10:00::
 
 
 
