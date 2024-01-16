@@ -84,9 +84,12 @@ form%1:07:03::	form%1:09:01::
 form%1:07:01::	form%1:09:00::
 function%1:14:00::	DELETE
 function%1:11:00::	DELETE
-
 instruction%1:04:00::	instruction%1:04:01::
 
+law%1:09:02::	law%1:14:00::
+law%1:04:00::	law%1:14:00::
+law%1:14:01::	law%1:14:00::
+law%1:10:00::	law%1:14:00::
 
 absence%1:04:00::	absence%1:26:00::
 absence%1:04:00::	absence%1:26:00::
