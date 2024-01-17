@@ -6,6 +6,16 @@ life%1:16:00::	life%1:26:02::
 life%1:28:01::	life%1:28:00::
 life%1:28:02::	life%1:28:00::
 life%1:28:03::	life%1:28:00::
+light%1:10:00::	light%1:19:00::
+light%1:15:00::	light%1:19:00::
+light%1:26:00::	light%1:19:00::
+light%1:06:01::	light%1:19:00::
+light%1:07:01::	light%1:06:00::
+light%1:07:00::	light%1:06:00::
+light%1:18:00::	light%1:09:01::
+light%1:09:02::	light%1:09:01::
+light%1:26:01::	light%1:09:01::
+light%1:09:00::	light%1:09:01::
 
 
 
