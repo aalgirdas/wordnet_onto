@@ -32,8 +32,7 @@ line%1:10:04::	DELETE
 line%1:06:08::	DELETE
 line%1:06:05::	DELETE
 line%1:23:00::	DELETE
-
-
+match%1:06:02::	match%1:06:00::
 
 
 card%1:10:03::	DELETE
