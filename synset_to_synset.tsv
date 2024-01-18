@@ -53,9 +53,12 @@ part%1:08:01::	part%1:24:00::
 part%1:06:00::	part%1:24:00::
 part%1:04:03::	part%1:09:02::
 part%1:04:01::	part%1:09:02::
-
 past%1:28:01::	past%1:28:00::
-
+pattern%1:04:00::	pattern%1:09:00::
+pattern%1:09:03::	pattern%1:09:00::
+pattern%1:09:01::	pattern%1:09:00::
+pattern%1:09:02::	pattern%1:09:00::
+pattern%1:15:00::	DELETE
 
 
 card%1:10:03::	DELETE
