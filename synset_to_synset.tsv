@@ -34,7 +34,7 @@ line%1:06:05::	DELETE
 line%1:23:00::	DELETE
 match%1:06:02::	match%1:06:00::
 medicine%1:04:02::	DELETE
-
+medicine%1:04:00::	medicine%1:09:00::
 
 
 card%1:10:03::	DELETE
@@ -232,7 +232,7 @@ family%1:14:02::	family%1:14:00::
 family%1:18:00::	family%1:14:00::
 family%1:14:05::	family%1:14:00::
 family%1:14:03::	family%1:14:04::
-medicine%1:09:00::	medicine%1:04:00::
+
 table%1:06:02::	table%1:06:01::
 table%1:14:01::	table%1:06:01::
 table%1:13:01::	table%1:06:01::
