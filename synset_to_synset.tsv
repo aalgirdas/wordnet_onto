@@ -36,6 +36,11 @@ match%1:06:02::	match%1:06:00::
 medicine%1:04:02::	DELETE
 medicine%1:04:00::	medicine%1:09:00::
 
+number%1:06:00::	DELETE
+number%1:10:05::	DELETE
+number%1:10:07::	DELETE
+
+
 
 card%1:10:03::	DELETE
 cards%1:04:00::	DELETE
