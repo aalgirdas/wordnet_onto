@@ -35,18 +35,20 @@ line%1:23:00::	DELETE
 match%1:06:02::	match%1:06:00::
 medicine%1:04:02::	DELETE
 medicine%1:04:00::	medicine%1:09:00::
-
 number%1:06:00::	DELETE
 number%1:10:05::	DELETE
 number%1:10:00::	DELETE
 number%1:14:00:::	DELETE
-
 number%1:10:03::	number%1:23:00::
 number%1:10:01::	number%1:23:00::
 number%1:10:02::	number%1:23:00::
 number%1:07:01::	number%1:23:00::
 number%1:10:07::	number%1:23:00::
 number%1:10:00::	number%1:23:00::
+
+
+office%1:04:01::	office%1:26:00::
+office%1:04:00::	DELETE
 
 card%1:10:03::	DELETE
 cards%1:04:00::	DELETE
