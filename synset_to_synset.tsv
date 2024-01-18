@@ -16,6 +16,21 @@ light%1:18:00::	light%1:09:01::
 light%1:09:02::	light%1:09:01::
 light%1:26:01::	light%1:09:01::
 light%1:09:00::	light%1:09:01::
+line%1:09:00::	line%1:09:01::
+line%1:10:06::	line%1:09:01::
+line%1:14:02::	line%1:09:01::
+line%1:10:02::	line%1:09:01::
+line%1:19:00::	line%1:10:01::
+line%1:25:01::	line%1:10:01::
+line%1:15:01::	line%1:10:01::
+line%1:14:01::	line%1:14:03::
+line%1:15:02::	line%1:14:03::
+line%1:06:07::	line%1:06:01::
+line%1:10:04::	DELETE
+line%1:06:08::	DELETE
+line%1:06:05::	DELETE
+line%1:23:00::	DELETE
+
 
 
 
