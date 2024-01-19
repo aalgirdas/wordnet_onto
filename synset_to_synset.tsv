@@ -59,6 +59,9 @@ pattern%1:09:03::	pattern%1:09:00::
 pattern%1:09:01::	pattern%1:09:00::
 pattern%1:09:02::	pattern%1:09:00::
 pattern%1:15:00::	DELETE
+performance%1:04:01::	performance%1:10:00::
+performance%1:04:03::	performance%1:04:00::
+
 
 
 card%1:10:03::	DELETE
