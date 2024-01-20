@@ -87,6 +87,12 @@ power%1:18:00::	power%1:07:00::
 power%1:14:00::	power%1:07:00::
 power%1:26:00::	power%1:07:00::
 power%1:09:01::	power%1:07:00::
+program%1:09:01::	program%1:09:00::
+program%1:10:04::	program%1:09:00::
+program%1:10:00::	program%1:09:00::
+program%1:04:00::	DELETE
+program%1:10:05::	DELETE
+
 
 
 
