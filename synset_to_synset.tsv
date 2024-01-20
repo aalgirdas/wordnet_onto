@@ -69,6 +69,17 @@ place%1:15:05::	place%1:15:00::
 place%1:15:06::	place%1:15:00::
 place%1:26:01::	place%1:04:01::
 
+point%1:25:00::	point%1:06:00::
+point%1:06:02::	point%1:06:00::
+point%1:09:01::	point%1:10:01::
+point%1:09:02::	point%1:10:01::
+point%1:07:02::	point%1:10:01::
+point%1:07:01::	point%1:10:01::
+point%1:10:03::	point%1:10:01::
+point%1:26:00::	point%1:10:01::
+point%1:17:02::	point%1:15:00::
+point%1:24:00::	DELETE
+
 
 
 card%1:10:03::	DELETE
