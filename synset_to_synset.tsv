@@ -102,6 +102,7 @@ result%1:10:00::	result%1:19:00::
 rule%1:10:00::	rule%1:09:00::
 rule%1:09:01::	rule%1:09:00::
 
+sanction%1:04:01::	DELETE
 
 
 card%1:10:03::	DELETE
