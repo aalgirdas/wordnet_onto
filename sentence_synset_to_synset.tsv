@@ -64,10 +64,11 @@ semeval2013.d012.s011	loss%1:21:01::	loss%1:21:00::
 13596673.1	match%1:23:00::	match%1:11:00::
 semeval2013.d008.s024	performance%1:22:00::	performance%1:04:00::
 semeval2013.d008.s020	performance%1:22:00::	performance%1:04:00::
-
-
 semeval2013.d002.s002	point%1:26:00::	point%1:23:01::
 semeval2013.d002.s003	point%1:26:00::	point%1:23:01::
+
+d012.s026	point%1:15:00::	point%1:09:00::
+
 
 
 
