@@ -101,8 +101,15 @@ result%1:11:00::	result%1:19:00::
 result%1:10:00::	result%1:19:00::
 rule%1:10:00::	rule%1:09:00::
 rule%1:09:01::	rule%1:09:00::
-
 sanction%1:04:01::	DELETE
+
+side%1:10:00::	side%1:14:00::
+side%1:15:00::	side%1:15:02::
+side%1:15:01::	side%1:15:02::
+side%1:08:00::	side%1:15:02::
+side%1:06:00::	side%1:15:02::
+side%1:17:01::	side%1:15:02::
+
 
 
 card%1:10:03::	DELETE
