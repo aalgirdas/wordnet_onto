@@ -122,8 +122,16 @@ support%1:04:02::	support%1:04:04::
 support%1:04:03::	support%1:04:04::
 support%1:21:00::	support%1:04:04::
 support%1:06:00::	support%1:06:01::
-
 test%1:04:00::	test%1:09:02::
+
+
+way%1:26:00::	way%1:07:01::
+way%1:07:02::	way%1:15:00::
+way%1:04:02::	way%1:15:00::
+way%1:06:00::	way%1:15:00::
+way%1:23:00::	way%1:15:00::
+
+
 
 card%1:10:03::	DELETE
 cards%1:04:00::	DELETE
