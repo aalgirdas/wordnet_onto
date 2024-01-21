@@ -73,6 +73,11 @@ d135.s001	side%1:09:00::	side%1:14:00::
 d135.s040	side%1:09:00::	side%1:14:00::
 d128.s043	state%1:03:00::	state%1:15:01::
 
+senseval2.d001.s090	test%1:04:00::	test%1:09:02::
+senseval2.d001.s017	test%1:04:00::	test%1:09:02::
+senseval2.d001.s004	test%1:04:00::	test%1:09:02::
+
+
 
 
 
