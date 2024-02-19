@@ -1,6 +1,10 @@
 
-game%1:04:03::	game%1:04:00::
+found%2:36:00::	DELETE
+found%2:41:00::	DELETE
 
+
+
+game%1:04:03::	game%1:04:00::
 absence%1:04:00::	absence%1:26:00::
 absence%1:04:00::	absence%1:26:00::
 absence%1:28:00::	absence%1:26:00::
@@ -44,7 +48,6 @@ attraction%1:10:00::	attraction%1:07:00::
 authority%1:14:00::	authority%1:18:01::
 authorities%1:14:00::	authority%1:18:01::
 authority%1:07:02::	authority%1:07:00::
-
 back%1:08:01::	back%1:08:00::
 back%1:06:01::	back%1:06:00::
 back%1:06:02::	back%1:08:00::
@@ -89,8 +92,6 @@ business%1:04:02::	business%1:04:01::
 business%1:04:03::	business%1:04:01::
 business%1:09:00::	business%1:09:01::
 business%1:14:02::	business%1:14:00::
-
-
 
 card%1:10:03::	DELETE
 cards%1:04:00::	DELETE
@@ -147,12 +148,10 @@ conditions%1:26:04::	condition%1:26:00::
 country%1:15:00::	country%1:14:00::
 country%1:14:01::	country%1:14:00::
 country%1:15:02::	country%1:14:00::
-
 deal%1:10:00::	deal%1:04:02::
 deal%1:11:00::	deal%1:04:02::
 deal%1:10:00::	deal%1:04:02::
 decision%1:09:00::	decision%1:04:00::
-
 dollar%1:10:00::	dollar%1:23:00::
 door%1:06:01::	door%1:06:00::
 education%1:14:00::	education%1:04:00::
@@ -167,7 +166,6 @@ employment%1:04:02::	employment%1:26:00::
 employment%1:04:00::	employment%1:26:00::
 end%1:04:00::	DELETE
 end%1:04:02::	DELETE
-
 imagine%2:31:01::	imagine%2:36:00::
 family%1:14:01::	family%1:14:00::
 family%1:14:02::	family%1:14:00::
@@ -196,7 +194,6 @@ law%1:09:02::	law%1:14:00::
 law%1:04:00::	law%1:14:00::
 law%1:14:01::	law%1:14:00::
 law%1:10:00::	law%1:14:00::
-
 level%1:26:00::	level%1:26:01::
 level%1:09:00::	level%1:26:01::
 library%1:06:02::	library%1:06:01::
