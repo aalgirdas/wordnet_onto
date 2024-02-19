@@ -75,14 +75,15 @@ d128.s043	state%1:03:00::	state%1:15:01::
 senseval2.d001.s090	test%1:04:00::	test%1:09:02::
 senseval2.d001.s017	test%1:04:00::	test%1:09:02::
 senseval2.d001.s004	test%1:04:00::	test%1:09:02::
-
-
-
 semeval2015.d001.s007	window%1:06:03::	window_computing
 semeval2015.d001.s006	window%1:06:03::	window_computing
 semeval2015.d001.s005	window%1:06:03::	window_computing
 semeval2015.d001.s050	window%1:06:03::	window_computing
 semeval2015.d001.s035	window%1:06:03::	window_computing
+
+
+senseval2.d000.s030	find%2:38:10::	find%2:31:10::
+
 
 
 
