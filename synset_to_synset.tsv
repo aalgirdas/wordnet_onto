@@ -146,8 +146,6 @@ hold%2:42:08::	DELETE
 hold%2:42:12::	DELETE
 hold%2:42:13::	hold%2:35:00::
 hold%2:42:14::	hold%2:35:00::
-
-
 think%2:30:00::	DELETE
 think%2:31:02::	think%2:31:00::
 think%2:31:06::	think%2:31:03::
@@ -159,6 +157,30 @@ think%2:31:14::	DELETE
 think%2:31:15::	DELETE
 think%2:36:00::	think%2:31:03::
 
+work%2:35:02::	work%2:41:03::
+work%2:41:00::	work%2:41:02::
+work%2:41:04::	work%2:41:02::
+work%2:30:10::	DELETE
+work%2:30:13::	DELETE
+work%2:30:14::	DELETE
+work%2:31:13::	DELETE
+work%2:34:10::	DELETE
+work%2:35:00::	DELETE
+work%2:35:14::	DELETE
+work%2:36:00::	work%2:41:02::
+work%2:36:01::	DELETE
+work%2:36:09::	DELETE
+work%2:36:12::	DELETE
+work%2:37:10::	DELETE
+work%2:38:00::	DELETE
+work%2:38:02::	DELETE
+work%2:39:10::	DELETE
+work%2:41:01::	work%2:41:02::
+work%2:41:04::	work%2:41:02::
+work%2:41:05::	work%2:41:02::
+work%2:41:11::	DELETE
+work%2:41:12::	DELETE
+work%2:42:10::	DELETE
 
 
 
