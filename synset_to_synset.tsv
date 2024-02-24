@@ -117,8 +117,6 @@ give%2:40:12::	DELETE
 give%2:40:14::	give%2:40:13::
 give%2:40:15::	DELETE
 give%2:41:10::	DELETE
-
-
 hold%2:29:04::	DELETE
 hold%2:31:04::	DELETE
 hold%2:31:08::	DELETE
@@ -150,6 +148,16 @@ hold%2:42:13::	hold%2:35:00::
 hold%2:42:14::	hold%2:35:00::
 
 
+think%2:30:00::	DELETE
+think%2:31:02::	think%2:31:00::
+think%2:31:06::	think%2:31:03::
+think%2:31:08::	DELETE
+think%2:31:09::	DELETE
+think%2:31:12::	DELETE
+think%2:31:13::	DELETE
+think%2:31:14::	DELETE
+think%2:31:15::	DELETE
+think%2:36:00::	think%2:31:03::
 
 
 
