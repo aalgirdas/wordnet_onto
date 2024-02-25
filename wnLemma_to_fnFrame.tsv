@@ -1,16 +1,14 @@
-absence	Presence
-acceptance	Respond_to_proposal
-addiction	Addiction
-accumulation	Amassing
-answer	Communication_response
-bell	Noise_makers
-benefit	Cause_benefit_or_detriment
-copy	Duplication
-imagine	Awareness
-capability	Capability
-
-
-commitment	Commitment
+n	absence	Presence
+n	acceptance	Respond_to_proposal
+n	addiction	Addiction
+n	accumulation	Amassing
+n	answer	Communication_response
+n	bell	Noise_makers
+n	benefit	Cause_benefit_or_detriment
+n	copy	Duplication
+n	imagine	Awareness
+n	capability	Capability
+n	commitment	Commitment
 
 
 
