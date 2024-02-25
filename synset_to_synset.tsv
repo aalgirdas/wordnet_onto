@@ -181,7 +181,6 @@ work%2:41:11::	DELETE
 work%2:41:12::	DELETE
 work%2:42:10::	DELETE
 work%2:41:10::	DELETE
-
 begin%2:30:01::	begin%2:30:00::
 begin%2:32:03::	begin%2:30:00::
 begin%2:32:04::	begin%2:30:00::
@@ -191,12 +190,21 @@ begin%2:42:02::	begin%2:42:00::
 begin%2:42:03::	DELETE
 begin%2:42:04::	begin%2:42:00::
 
+show%2:32:00::	show%2:31:00::
+show%2:32:03::	show%2:31:00::
+show%2:32:04::	show%2:31:00::
+show%2:33:00::	DELETE
+show%2:38:00::	show%2:32:01::
+show%2:39:00::	show%2:39:02::
+show%2:39:00::	show%2:39:02::
 
 
 
 
 
-XXXXXXXXXXXXXXXXXX	XXXXXXXXXXXXXXXXXXXXXX
+
+
+XXXXXXXXXXXXXXXXXX	XXXXXXXXXXXXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 game%1:04:03::	game%1:04:00::
 absence%1:04:00::	absence%1:26:00::
 absence%1:04:00::	absence%1:26:00::
