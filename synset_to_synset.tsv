@@ -206,9 +206,10 @@ feel%2:40:00::	DELETE
 feel%2:42:00::	feel%2:29:00::
 felt%2:35:00::	DELETE
 felt%2:35:01::	DELETE
-
 need%2:34:01::	need%2:34:00::
 
+wait%2:31:00::	wait%2:42:00::
+wait%2:41:00::	DELETE
 
 
 
