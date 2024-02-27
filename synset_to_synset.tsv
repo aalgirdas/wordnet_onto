@@ -251,6 +251,15 @@ go%2:42:12::	DELETE
 go%2:42:13::	DELETE
 go%2:42:14::	go%2:41:00::
 
+hit%2:32:12::	DELETE
+hit%2:38:07::	DELETE
+hit%2:33:02::	DELETE
+hit%2:38:02::	DELETE
+hit%2:39:00::	hit%2:35:05::
+hit%2:40:05::	hit%2:35:05::
+hit%2:33:03::	DELETE
+hit%2:34:00::	DELETE
+
 
 
 
