@@ -208,9 +208,22 @@ felt%2:35:00::	DELETE
 felt%2:35:01::	DELETE
 need%2:34:01::	need%2:34:00::
 wait%2:41:00::	DELETE
-
 watch%2:39:02::	watch%2:39:00::
 watch%2:39:03::	watch%2:39:00::
+
+
+follow%2:30:00::	follow%2:40:00::
+follow%2:30:01::	follow%2:40:00::
+follow%2:31:14::	follow%2:40:00::
+follow%2:36:00::	follow%2:40:00::
+follow%2:36:01::	DELETE
+follow%2:38:13::	follow%2:38:00::
+follow%2:39:13::	DELETE
+follow%2:41:00::	follow%2:40:00::
+follow%2:41:10::	follow%2:40:00::
+follow%2:41:11::	follow%2:40:00::
+follow%2:42:01::	follow%2:42:00::
+follow%2:42:03::	follow%2:42:00::
 
 
 
