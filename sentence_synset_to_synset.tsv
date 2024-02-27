@@ -1,3 +1,7 @@
+
+
+semeval2007.d002.s028	follow%2:31:00::	follow%2:38:00::
+
 d018.s020	deal%1:04:02::	deal%1:04:00::
 14768201.1	arsenic%1:27:01::	arsenic%1:27:00::
 d163.s068	arsenic%1:27:01::	arsenic%1:27:00::
@@ -80,8 +84,6 @@ semeval2015.d001.s006	window%1:06:03::	window_computing
 semeval2015.d001.s005	window%1:06:03::	window_computing
 semeval2015.d001.s050	window%1:06:03::	window_computing
 semeval2015.d001.s035	window%1:06:03::	window_computing
-
-
 senseval2.d000.s030	find%2:38:10::	find%2:31:10::
 d056.s058	receive%2:40:00::	receive%2:39:03::
 d168.s002	receive%2:40:00::	receive%2:39:03::
