@@ -266,20 +266,19 @@ turn%2:30:01::	turn%2:30:04::
 turn%2:30:03::	turn%2:30:04::
 turn%2:30:09::	turn%2:30:04::
 turn%2:30:14::	turn%2:30:04::
-
 turn%2:32:14::	turn%2:38:14::
-
 turn%2:35:06::	DELETE
 turn%2:35:08::	DELETE
 turn%2:35:10::	DELETE
 turn%2:35:11::	DELETE
 turn%2:36:00::	DELETE
-
 turn%2:38:01::	turn%2:38:00::
 turn%2:38:02::	turn%2:38:00::
 turn%2:38:04::	turn%2:38:00::
 turn%2:38:13::	turn%2:38:00::
 turn%2:41:10::	DELETE
+turn%2:42:13::	turn%2:30:04::
+
 
 
 
