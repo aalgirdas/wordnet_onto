@@ -277,13 +277,18 @@ turn%2:38:04::	turn%2:38:00::
 turn%2:38:13::	turn%2:38:00::
 turn%2:41:10::	DELETE
 turn%2:42:13::	turn%2:30:04::
-
-
 ask%2:32:00::	ask%2:32:02::
 ask%2:32:04::	ask%2:32:02::
 ask%2:32:05::	ask%2:32:01::
 ask%2:32:09::	ask%2:32:01::
 ask%2:42:00::	DELETE
+
+enter%2:30:10::	DELETE
+enter%2:35:03::	enter%2:32:04::
+enter%2:36:00::	enter%2:38:00::
+
+
+
 
 
 XXXXXXX_NOUN_XXXXXXXXXXX	XXXXXXXXXXXXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
