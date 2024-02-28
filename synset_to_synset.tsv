@@ -282,12 +282,29 @@ ask%2:32:04::	ask%2:32:02::
 ask%2:32:05::	ask%2:32:01::
 ask%2:32:09::	ask%2:32:01::
 ask%2:42:00::	DELETE
-
 enter%2:30:10::	DELETE
 enter%2:35:03::	enter%2:32:04::
 enter%2:36:00::	enter%2:38:00::
 
 
+get%2:29:00::	get%2:29:01::
+get%2:29:11::	get%2:29:01::
+get%2:30:01::	get%2:30:00::
+get%2:30:12::	DELETE
+get%2:31:03::	DELETE
+get%2:31:10::	DELETE
+get%2:32:08::	DELETE
+get%2:35:00::	DELETE
+get%2:35:09::	DELETE
+get%2:35:10::	DELETE
+get%2:35:12::	DELETE
+get%2:36:14::	DELETE
+get%2:37:12::	get%2:37:11::
+get%2:38:12::	DELETE
+get%2:39:13::	DELETE
+get%2:39:14::	DELETE
+get%2:40:13::	get%2:40:00::
+get%2:40:14::	get%2:40:00::
 
 
 
