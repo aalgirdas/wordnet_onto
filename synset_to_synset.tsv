@@ -285,9 +285,6 @@ ask%2:42:00::	DELETE
 enter%2:30:10::	DELETE
 enter%2:35:03::	enter%2:32:04::
 enter%2:36:00::	enter%2:38:00::
-
-
-
 get%2:29:00::	get%2:40:00::
 get%2:29:01::	get%2:40:00::
 get%2:29:11::	get%2:40:00::
@@ -314,6 +311,16 @@ get%2:40:14::	get%2:40:00::
 get%2:40:01::	get%2:40:00::
 
 
+pass%2:29:00::	DELETE
+
+pass%2:38:01::	pass%2:38:00::
+pass%2:38:04::	DELETE
+pass%2:38:05::	pass%2:38:00::
+
+pass%2:40:01::	DELETE
+pass%2:41:04::	pass%2:41:02::
+
+pass%2:42:00::	pass%2:30:00::
 
 
 XXXXXXX_NOUN_XXXXXXXXXXX	XXXXXXXXXXXXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
