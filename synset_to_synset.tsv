@@ -312,6 +312,8 @@ get%2:40:01::	get%2:40:00::
 
 
 pass%2:29:00::	DELETE
+pass%2:30:00::	pass%2:38:03::
+pass%2:30:11::	DELETE
 pass%2:38:01::	pass%2:38:00::
 pass%2:38:04::	DELETE
 pass%2:38:05::	pass%2:38:00::
