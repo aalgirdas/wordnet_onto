@@ -337,18 +337,14 @@ shake%2:38:01::	shake%2:38:00::
 shake%2:38:02::	shake%2:38:00::
 
 stand%2:31:00::	stand%2:42:04::
-
+stand%2:31:01::	stand%2:42:04::
 stand%2:35:01::	stand%2:35:00::
-
 stand%2:42:00::	stand%2:42:04::
-
 stand%2:42:01::	stand%2:35:00::
-
 stand%2:42:02::	stand%2:42:04::
-
 stand%2:42:03::	stand%2:35:00::
-
-stand%2:33:00::	stand%2:42:00::
+stand%2:33:00::	stand%2:42:04::
+stand%2:42:06::	stand%2:42:04::
 
 
 
