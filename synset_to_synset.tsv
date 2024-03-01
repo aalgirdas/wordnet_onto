@@ -335,7 +335,6 @@ shake%2:29:00::	shake%2:38:00::
 shake%2:32:00::	shake%2:38:00::
 shake%2:38:01::	shake%2:38:00::
 shake%2:38:02::	shake%2:38:00::
-
 stand%2:31:00::	stand%2:42:04::
 stand%2:31:01::	stand%2:42:04::
 stand%2:35:01::	stand%2:35:00::
@@ -346,10 +345,12 @@ stand%2:42:03::	stand%2:35:00::
 stand%2:33:00::	stand%2:42:04::
 stand%2:42:06::	stand%2:42:04::
 wonder%2:32:12::	wonder%2:32:01::
-
 administer%2:29:00::	administer%2:40:00::
 administer%2:40:01::	administer%2:40:00::
 administer%2:41:01::	DELETE
+
+become%2:42:00::	become%2:30:00::
+become%2:42:03::	DELETE
 
 
 XXXXXXX_NOUN_XXXXXXXXXXX	XXXXXXXXXXXXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
