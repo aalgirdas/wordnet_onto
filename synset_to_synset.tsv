@@ -348,8 +348,8 @@ stand%2:42:06::	stand%2:42:04::
 wonder%2:32:12::	wonder%2:32:01::
 
 administer%2:29:00::	administer%2:40:00::
-administer%2:40:01::	DELETE
-administer%2:41:01::	administer%2:41:00::
+administer%2:40:01::	administer%2:40:00::
+administer%2:41:01::	DELETE
 
 
 XXXXXXX_NOUN_XXXXXXXXXXX	XXXXXXXXXXXXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
