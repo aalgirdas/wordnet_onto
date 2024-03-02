@@ -350,8 +350,6 @@ administer%2:40:01::	administer%2:40:00::
 administer%2:41:01::	DELETE
 become%2:42:00::	become%2:30:00::
 become%2:42:03::	DELETE
-
-
 burn%2:29:00::	DELETE
 burn%2:30:01::	burn%2:30:00::
 burn%2:30:02::	burn%2:30:00::
@@ -362,6 +360,29 @@ burn%2:36:05::	DELETE
 burn%2:39:04::	burn%2:39:00::
 burn%2:41:00::	burn%2:30:00::
 burn%2:43:02::	burn%2:30:00::
+
+call%2:32:00::	call%2:32:02::
+call%2:29:05::	DELETE
+call%2:31:00::	DELETE
+call%2:31:05::	DELETE
+call%2:31:13::	DELETE
+call%2:32:03::	call%2:32:09::
+call%2:32:04::	call%2:32:01::
+call%2:32:06::	DELETE
+call%2:32:07::	DELETE
+call%2:32:08::	DELETE
+call%2:32:10::	DELETE
+call%2:32:11::	DELETE
+call%2:32:12::	DELETE
+call%2:32:13::	DELETE
+call%2:32:14::	DELETE
+call%2:32:15::	DELETE
+call%2:38:00::	DELETE
+call%2:40:05::	DELETE
+call%2:40:09::	DELETE
+call%2:41:12::	DELETE
+call%2:41:14::	DELETE
+call%2:42:09::	DELETE
 
 
 
