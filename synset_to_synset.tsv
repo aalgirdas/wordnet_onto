@@ -1,3 +1,13 @@
+stop%2:30:05::	stop%2:42:00::
+stop%2:30:12::	DELETE
+stop%2:33:00::	stop%2:42:00::
+stop%2:35:00::	stop%2:41:00::
+stop%2:35:12::	DELETE
+stop%2:38:01::	stop%2:38:00::
+stop%2:38:02::	stop%2:38:00::
+stop%2:42:13::	stop%2:42:00::
+
+
 spread%2:32:02::	spread%2:32:00::
 spread%2:35:03::	spread%2:35:00::
 spread%2:35:12::	DELETE
@@ -5,8 +15,6 @@ spread%2:35:13::	DELETE
 spread%2:38:00::	spread%2:35:00::
 spread%2:38:02::	spread%2:35:00::
 spread%2:42:00::	spread%2:35:00::
-
-
 seem%2:39:02::	DELETE
 seem%2:42:00::	DELETE
 roll%2:38:01::	roll%2:38:00::
