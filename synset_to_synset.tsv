@@ -1,3 +1,17 @@
+roll%2:38:01::	roll%2:38:00::
+roll%2:29:06::	roll%2:38:00::
+roll%2:30:06::	roll%2:35:00::
+roll%2:30:07::	roll%2:35:00::
+roll%2:30:08::	DELETE
+roll%2:30:10::	roll%2:35:00::
+roll%2:32:00::	DELETE
+roll%2:38:09::	DELETE
+roll%2:38:10::	DELETE
+roll%2:38:11::	DELETE
+roll%2:38:12::	DELETE
+roll%2:39:00::	roll%2:42:00::
+
+
 ride%2:32:00::	ride%2:42:04::
 ride%2:35:00::	ride%2:42:04::
 ride%2:35:03::	ride%2:42:04::
@@ -9,7 +23,6 @@ ride%2:42:07::	ride%2:42:04::
 ride%2:38:04::	ride%2:38:00::
 ride%2:38:07::	ride%2:38:00::
 ride%2:42:03::	ride%2:38:00::
-
 reach%2:38:06::	reach%2:38:01::
 reach%2:40:00::	DELETE
 reach%2:41:00::	reach%2:38:01::
