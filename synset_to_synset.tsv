@@ -1,3 +1,5 @@
+tell%2:31:01::	tell%2:31:00::
+
 suffer%2:29:00::	suffer%2:37:00::
 suffer%2:29:03::	suffer%2:39:01::
 suffer%2:30:02::	DELETE
@@ -5,8 +7,6 @@ suffer%2:31:00::	suffer%2:39:01::
 suffer%2:39:00::	suffer%2:29:01::
 suffer%2:39:02::	suffer%2:29:01::
 suffer%2:42:04::	suffer%2:29:01::
-
-
 stop%2:30:05::	stop%2:42:00::
 stop%2:30:12::	DELETE
 stop%2:33:00::	stop%2:42:00::
