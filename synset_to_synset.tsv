@@ -1,8 +1,11 @@
+compare%2:31:01::	compare%2:31:00::
+compare%2:42:00::	compare%2:31:00::
+
+
 bounce%2:35:00::	DELETE
 bounce%2:35:03::	bounce%2:38:00::
 bounce%2:38:02::	bounce%2:38:00::
 bounce%2:40:01::	DELETE
-
 block%2:30:00::	DELETE
 block%2:30:01::	DELETE
 block%2:30:02::	block%2:41:01::
