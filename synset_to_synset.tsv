@@ -1,3 +1,14 @@
+drift%2:30:00::	DELETE
+drift%2:35:03::	drift%2:38:02::
+drift%2:38:05::	drift%2:38:02::
+drift%2:38:06::	drift%2:38:02::
+drift%2:38:04::	drift%2:38:02::
+drift%2:38:01::	drift%2:38:02::
+drift%2:42:00::	DELETE
+drift%2:42:03::	drift%2:30:10::
+
+
+
 draw%2:29:00::	DELETE
 draw%2:30:00::	DELETE
 draw%2:30:04::	DELETE
