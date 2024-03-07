@@ -1,8 +1,15 @@
+pay%2:31:00::	pay%2:32:00::
+pay%2:40:01::	pay%2:40:00::
+pay%2:40:02::	pay%2:40:00::
+pay%2:40:04::	pay%2:40:00::
+pay%2:40:13::	DELETE
+pay%2:40:14::	DELETE
+pay%2:41:00::	DELETE
+
+
 nod%2:29:03::	nod%2:32:01::
 nod%2:32:00::	nod%2:32:01::
 nod%2:38:00::	DELETE
-
-
 identify%2:31:01::	identify%2:31:00::
 identify%2:31:02::	identify%2:31:04::
 identify%2:32:00::	identify%2:31:00::
