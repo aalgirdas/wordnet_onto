@@ -12,6 +12,8 @@ v	stop	Activity_stop
 v	suffer	Catastrophe
 v	compare	Evaluative_comparison
 v	drink	Ingestion
+v	nod	Body_movement
+
 
 n	absence	Presence
 n	acceptance	Respond_to_proposal
