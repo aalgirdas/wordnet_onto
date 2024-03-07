@@ -1,7 +1,11 @@
+nod%2:29:03::	nod%2:32:01::
+nod%2:32:00::	nod%2:32:01::
+nod%2:38:00::	DELETE
+
+
 identify%2:31:01::	identify%2:31:00::
 identify%2:31:02::	identify%2:31:04::
 identify%2:32:00::	identify%2:31:00::
-
 drink%2:34:01::	drink%2:34:00::
 drink%2:34:02::	DELETE
 drink%2:34:12::	drink%2:34:00::
