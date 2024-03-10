@@ -14,6 +14,7 @@ v	compare	Evaluative_comparison
 v	drink	Ingestion
 v	nod	Body_movement
 v	progress	Progression
+v	remind	Evoking
 
 n	absence	Presence
 n	acceptance	Respond_to_proposal
