@@ -1,11 +1,14 @@
 
-speak%2:32:01::	speak%2:32:00::
+specify%2:31:02::	specify%2:32:03::
+specify%2:32:00::	specify%2:32:03::
+specify%2:32:02::	specify%2:32:03::
+specify%2:42:00::	specify%2:32:03::
 
+
+speak%2:32:01::	speak%2:32:00::
 sound%2:32:00::	sound%2:39:00::
 sound%2:39:02::	sound%2:39:00::
 sound%2:39:03::	sound%2:39:00::
-
-
 set%2:30:02::	set%2:30:01::
 set%2:30:07::	DELETE
 set%2:30:09::	set%2:30:01::
