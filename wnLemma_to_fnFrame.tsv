@@ -15,6 +15,9 @@ v	drink	Ingestion
 v	nod	Body_movement
 v	progress	Progression
 v	remind	Evoking
+v	ruin	Bungling
+
+
 
 n	absence	Presence
 n	acceptance	Respond_to_proposal
