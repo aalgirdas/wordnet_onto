@@ -1,7 +1,13 @@
+write%2:32:01::	write%2:32:00::
+write%2:32:08::	write%2:32:00::
+write%2:36:01::	write%2:36:00::
+write%2:36:02::	write%2:36:00::
+write%2:36:04::	write%2:36:00::
+write%2:36:03::	DELETE
+
 wish%2:32:01::	wish%2:37:00::
 wish%2:37:01::	wish%2:37:00::
 wish%2:32:02::	wish%2:37:00::
-
 win%2:33:01::	win%2:40:00::
 treat%2:31:00::	treat%2:41:00::
 treat%2:32:00::	treat%2:41:00::
