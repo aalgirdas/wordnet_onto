@@ -1,3 +1,13 @@
+break%2:30:00::	break%2:35:01::
+break%2:30:02::	break%2:30:03::
+break%2:30:06::	break%2:35:01::
+break%2:30:09::	DELETE
+break%2:30:10::	break%2:35:01::
+break%2:30:11::	break%2:30:12::
+break%2:37:00::	break%2:30:12::
+break%2:38:01::	DELETE
+break%2:42:00::	break%2:41:00::
+break%2:41:01::	break%2:30:05::
 belong%2:42:02::	belong%2:42:01::
 belong%2:42:03::	belong%2:42:01::
 attack%2:32:00::	attack%2:30:00::
