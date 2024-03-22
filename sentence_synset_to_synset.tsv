@@ -1,4 +1,10 @@
 semeval2015.d001.s044	publish%2:32:00::	publish%2:36:00::
+d052.s034	publish%2:32:00::	publish%2:36:00::
+d063.s013	publish%2:32:00::	publish%2:36:00::
+d213.s017	publish%2:32:00::	publish%2:36:00::
+d167.s052	publish%2:32:00::	publish%2:36:00::
+d090.s032	publish%2:32:00::	publish%2:36:00::
+
 d153.s029	prove%2:31:00::	prove%2:42:00::
 senseval3.d000.s156	prove%2:41:03::	prove%2:31:00::
 d227.s071	propose%2:32:00::	propose%2:31:00::
@@ -15,7 +21,6 @@ d259.s068	propose%2:31:00::	propose%2:32:00::
 d213.s055	propose%2:31:00::	propose%2:32:00::
 d341.s004	propose%2:31:00::	propose%2:32:00::
 d316.s011	propose%2:31:00::	propose%2:32:00::
-
 d270.s045	proceed%2:32:00::	proceed%2:38:00::
 d329.s019	proceed%2:38:00::	proceed%2:41:00::
 d022.s090	proceed%2:38:00::	proceed%2:41:00::
