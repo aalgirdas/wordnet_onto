@@ -1,3 +1,7 @@
+d227.s071	propose%2:32:00::	propose%2:31:00::
+propose%2:32:00::	propose%2:32:00::	propose%2:31:00::
+d155.s060	propose%2:41:00::	propose%2:32:00::
+
 d270.s045	proceed%2:32:00::	proceed%2:38:00::
 d329.s019	proceed%2:38:00::	proceed%2:41:00::
 d022.s090	proceed%2:38:00::	proceed%2:41:00::
@@ -17,7 +21,6 @@ d255.s061	proceed%2:32:00::	proceed%2:41:00::
 d248.s050	proceed%2:32:00::	proceed%2:41:00::
 d047.s018	proceed%2:32:00::	proceed%2:41:00::
 d029.s048	proceed%2:32:00::	proceed%2:41:00::
-
 d033.s052	orient%2:42:01::	orient%2:30:00::
 d195.s034	operate%2:35:00::	operate%2:41:00::
 d341.s046	open%2:35:06::	open%2:41:00::
