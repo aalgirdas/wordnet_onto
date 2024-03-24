@@ -1,3 +1,12 @@
+settle%2:30:03::	settle%2:30:00::
+settle%2:30:05::	settle%2:30:02::
+settle%2:32:00::	settle%2:31:00::
+settle%2:32:01::	settle%2:31:00::
+settle%2:32:02::	settle%2:31:00::
+settle%2:32:04::	settle%2:31:00::
+settle%2:35:01::	settle%2:38:01::
+settle%2:38:00::	settle%2:38:01::
+settle%2:38:07::	settle%2:38:01::
 seek%2:35:00::	seek%2:40:00::
 scramble%2:38:01::	scramble%2:38:00::
 roar%2:32:01::	roar%2:38:00::
