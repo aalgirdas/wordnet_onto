@@ -1,3 +1,14 @@
+semeval2015.d001.s027	now%4:02:04::	now%4:02:02::
+now%4:02:04::	now%4:02:04::	now%4:02:02::
+d079.s174	now%4:02:04::	now%4:02:02::
+d108.s217	now%4:02:05::	now%4:02:01::
+d050.s124	now%4:02:04::	now%4:02:01::
+d050.s125	now%4:02:04::	now%4:02:01::
+d179.s130	now%4:02:01::	now%4:02:04::
+d065.s085	now%4:02:01::	now%4:02:04::
+
+
+ADJ	xxxxxxxxxxxxxxxxxxxxxxxxxxxx	xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 d166.s065	active%3:00:02::	active%3:00:01::
 d177.s106	common%3:00:02::	common%5:00:00:shared:00
 semeval2015.d002.s017	public%5:00:00:common:02	public%3:00:00::
