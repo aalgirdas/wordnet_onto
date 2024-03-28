@@ -1,3 +1,8 @@
+active%3:00:01::	active%3:00:06::
+active%3:00:07::	active%3:00:02::
+active%3:00:03::	active%3:00:06::
+active%5:00:00:existent:00	active%3:00:06::
+active%5:00:00:involved:00	active%3:00:06::
 local%3:01:01::	local%3:00:01::
 common%5:00:00:informal:02	common%3:00:01::
 common%5:00:00:familiar:02	common%3:00:01::
