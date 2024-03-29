@@ -178,7 +178,8 @@ d324.s001	tell%2:32:03::	tell%2:31:00::
 d001.s099	tell%2:32:03::	tell%2:31:00::
 d175.s068	tell%2:32:00::	tell%2:31:00::
 
-n	xxxxxxxxxxxxxxxxxxxxxxxxxxxx	xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+NOUN	xxxxxxxxxxxxxxxxxxxxxxxxxxxx	xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+senseval3.d001.s027	game%1:04:00::	game%1:09:00::
 d018.s020	deal%1:04:02::	deal%1:04:00::
 14768201.1	arsenic%1:27:01::	arsenic%1:27:00::
 d163.s068	arsenic%1:27:01::	arsenic%1:27:00::
