@@ -1,6 +1,9 @@
 
 XXXXXXX_NOUN_XXXXXXXXXXX	XXXXXXXXXXXXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
+loss%1:11:00::	loss%1:21:01::
+loss%1:11:01::	loss%1:21:01::
+loss%1:07:00::	loss%1:21:01::
 discovery%1:09:00::	discovery%1:04:00::
 discovery%1:10:00::	discovery%1:04:00::
 democracy%1:14:00::	democracy%1:09:00::
