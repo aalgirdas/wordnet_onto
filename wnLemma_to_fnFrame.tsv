@@ -1,3 +1,20 @@
+
+
+n	president	Leadership
+n	absence	Presence
+n	acceptance	Respond_to_proposal
+n	addiction	Addiction
+n	accumulation	Amassing
+n	answer	Communication_response
+n	bell	Noise_makers
+n	benefit	Cause_benefit_or_detriment
+n	copy	Duplication
+n	imagine	Awareness
+n	capability	Capability
+n	commitment	Commitment
+
+
+
 v	offer	Offering
 v	let	Preventing_or_letting
 v	include	Inclusion
@@ -41,17 +58,6 @@ v	ruin	Bungling
 v	specify	Categorization
 
 
-n	absence	Presence
-n	acceptance	Respond_to_proposal
-n	addiction	Addiction
-n	accumulation	Amassing
-n	answer	Communication_response
-n	bell	Noise_makers
-n	benefit	Cause_benefit_or_detriment
-n	copy	Duplication
-n	imagine	Awareness
-n	capability	Capability
-n	commitment	Commitment
 
 
 
