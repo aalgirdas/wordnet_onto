@@ -1,6 +1,9 @@
 
 XXXXXXX_NOUN_XXXXXXXXXXX	XXXXXXXXXXXXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
+day%1:28:01::	day%1:28:00::
+day%1:28:04::	day%1:28:02::
+day%1:28:05::	day%1:28:03::
 corner%1:15:01::	corner%1:15:02::
 corner%1:17:00::	corner%1:15:00::
 corner%1:25:00::	corner%1:06:02::
