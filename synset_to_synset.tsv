@@ -1,6 +1,9 @@
 
 XXXXXXX_NOUN_XXXXXXXXXXX	XXXXXXXXXXXXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
+example%1:09:01::	example%1:09:02::
+example%1:10:00::	example%1:09:02::
+example%1:11:00::	example%1:09:02::
 study%1:10:00::	study%1:04:00::
 study%1:06:01::	study%1:04:00::
 study%1:09:01::	study%1:09:03::
