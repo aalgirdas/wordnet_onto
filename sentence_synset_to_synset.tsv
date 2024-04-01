@@ -1,6 +1,10 @@
 
 NOUN	xxxxxxxxxxxxxxxxxxxxxxxxxxxx	xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
+senseval2.d001.s027	result%1:10:00::	result%1:19:00::
+d094.s054	result%1:10:00::	result%1:19:00::
+d129.s021	result%1:10:00::	result%1:19:00::
+d094.s052	result%1:10:00::	result%1:19:00::
 d120.s118	problem%1:10:00::	problem%1:26:00::
 d184.s029	problem%1:10:00::	problem%1:26:00::
 d101.s084	problem%1:10:00::	problem%1:26:00::
