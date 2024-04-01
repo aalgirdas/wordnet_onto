@@ -1,6 +1,12 @@
 
 NOUN	xxxxxxxxxxxxxxxxxxxxxxxxxxxx	xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
+semeval2015.d003.s010	day%1:28:02::	day%1:28:00::
+senseval3.d000.s069	 day%1:28:00::	day%1:28:02::
+semeval2013.d009.s001	day%1:28:03::	day%1:28:01::
+d019.s104	day%1:28:03::	day%1:28:00::
+d074.s047	day%1:28:03::	day%1:28:00::
+d140.s057	day%1:28:02::	day%1:28:00::
 d161.s022	corner%1:15:02::	corner%1:06:02::
 d135.s053	version%1:10:02::	version%1:10:01::
 d153.s077	role%1:04:00::	role%1:09:00::
