@@ -1,6 +1,10 @@
 
 XXXXXXX_NOUN_XXXXXXXXXXX	XXXXXXXXXXXXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
+study%1:10:00::	study%1:04:00::
+study%1:06:01::	study%1:04:00::
+study%1:09:01::	study%1:09:03::
+study%1:09:04::	study%1:09:03::
 work%1:04:01::	work%1:04:00::
 work%1:09:00::	work%1:04:00::
 report%1:10:01::	report%1:10:00::
