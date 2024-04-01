@@ -1,6 +1,8 @@
 
 XXXXXXX_NOUN_XXXXXXXXXXX	XXXXXXXXXXXXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
+role%1:07:00::	role%1:04:00::
+role%1:04:01::	role%1:04:00::
 example%1:09:01::	example%1:09:02::
 example%1:10:00::	example%1:09:02::
 example%1:11:00::	example%1:09:00::
