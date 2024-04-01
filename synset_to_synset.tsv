@@ -1,6 +1,8 @@
 
 XXXXXXX_NOUN_XXXXXXXXXXX	XXXXXXXXXXXXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
+work%1:04:01::	work%1:04:00::
+work%1:09:00::	work%1:04:00::
 report%1:10:01::	report%1:10:00::
 problem%1:09:00::	problem%1:26:00::
 president%1:18:03::	president%1:18:01::
