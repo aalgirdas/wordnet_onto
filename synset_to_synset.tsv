@@ -1,6 +1,6 @@
-
-XXXXXXX_NOUN_XXXXXXXXXXX	XXXXXXXXXXXXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-
+establishment%1:14:02::	establishment%1:14:00::
+establishment%1:14:01::	establishment%1:14:00::
+establishment%1:06:00::	establishment%1:14:00::
 end%1:15:01::	end%1:15:00::
 end%1:15:02::	end%1:15:00::
 end%1:15:03::	end%1:15:00::
@@ -370,7 +370,6 @@ writer%1:18:01::	writer%1:18:00::
 
 
 
-XXXXXXX_ADV_XXXXXXXXXXX	XXXXXXXXXXXXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 so%4:02:07::	so%4:02:02::
 so%4:02:04::	so%4:02:05::
 so%4:02:03::	so%4:02:02::
@@ -385,7 +384,6 @@ only%4:02:05::	only%4:02:02::
 only%4:02:06::	only%4:02:02::
 only%4:02:03::	only%4:02:02::
 
-XXXXXXX_ADJ_XXXXXXXXXXX	XXXXXXXXXXXXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 able%5:00:00:capable:00	able%3:00:00::
 able%5:00:00:competent:00	able%3:00:00::
 active%3:00:01::	active%3:00:06::
@@ -408,7 +406,6 @@ new%5:00:00:inexperienced:00	new%3:00:00::
 new%5:00:00:unprecedented:00	new%5:00:00:original:00
 new%5:00:00:other:00	new%3:00:00::
 
-XXXXXXX_VERB_XXXXXXXXXXX	XXXXXXXXXXXXXXXXXXXXXXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 wink%2:29:00::	wink%2:29:02::
 use%2:34:02::	use%2:34:01::
 upset%2:37:00::	upset%2:37:01::
