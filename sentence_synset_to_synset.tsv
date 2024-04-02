@@ -1,6 +1,9 @@
 
 NOUN	xxxxxxxxxxxxxxxxxxxxxxxxxxxx	xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
+d144.s001	evidence%1:09:00::	evidence%1:10:00::
+semeval2013.d005.s009	evidence%1:10:00::	evidence%1:09:00::
+
 d124.s114	end%1:09:02::	end%1:11:00::
 semeval2015.d003.s010	day%1:28:02::	day%1:28:00::
 senseval3.d000.s069	 day%1:28:00::	day%1:28:02::
