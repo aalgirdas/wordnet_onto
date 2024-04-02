@@ -1,6 +1,7 @@
 
-NOUN	xxxxxxxxxxxxxxxxxxxxxxxxxxxx	xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-
+senseval2.d001.s050	finding%1:17:00::	finding%1:04:00::
+semeval2013.d008.s004	finding%1:17:00::	finding%1:04:00::
+senseval2.d001.s018	finding%1:17:00::	finding%1:04:00::
 d144.s001	evidence%1:09:00::	evidence%1:10:00::
 semeval2013.d005.s009	evidence%1:10:00::	evidence%1:09:00::
 senseval3.d001.s041	evidence%1:09:00::	evidence%1:10:01::
@@ -144,11 +145,6 @@ d015.s004	one%1:23:00::	one%1:09:00::
 
 
 
-
-
-
-
-ADV	xxxxxxxxxxxxxxxxxxxxxxxxxxxx	xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 semeval2015.d001.s027	now%4:02:04::	now%4:02:02::
 now%4:02:04::	now%4:02:04::	now%4:02:02::
 d079.s174	now%4:02:04::	now%4:02:02::
@@ -159,7 +155,7 @@ d179.s130	now%4:02:01::	now%4:02:04::
 d065.s085	now%4:02:01::	now%4:02:04::
 
 
-ADJ	xxxxxxxxxxxxxxxxxxxxxxxxxxxx	xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
 d166.s065	active%3:00:02::	active%3:00:01::
 d177.s106	common%3:00:02::	common%5:00:00:shared:00
 semeval2015.d002.s017	public%5:00:00:common:02	public%3:00:00::
@@ -168,7 +164,7 @@ senseval2.d001.s074	same%3:00:00::	same%3:00:02::
 senseval2.d001.s037	genetic%5:00:00:inheritable:00	genetic%3:01:02::
 d090.s015	democratic%3:01:00::	democratic%3:00:00::
 
-VERB	xxxxxxxxxxxxxxxxxxxxxxxxxxxx	xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
 d140.s091	wear%2:29:00::	wear%2:42:01::
 d146.s011	wear%2:29:00::	wear%2:42:01::
 d141.s101	wear%2:29:00::	wear%2:42:01::
