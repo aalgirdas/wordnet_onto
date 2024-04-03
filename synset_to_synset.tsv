@@ -1,4 +1,8 @@
 
+right%1:04:00::	right%1:15:00::
+right%1:07:01::	right%1:07:00::
+right%1:08:00::	right%1:15:00::
+right%1:06:00::	right%1:15:00::
 product%1:06:00::	product%1:06:01::
 piece%1:06:03::	piece%1:06:00::
 piece%1:06:04::	piece%1:06:00::
