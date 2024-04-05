@@ -1,4 +1,6 @@
 
+output%1:23:00::	output%1:04:00::
+output%1:06:00::	output%1:04:00::
 operation%1:04:01::	operation%1:22:00::
 operation%1:04:02::	operation%1:04:03::
 nature%1:18:00::	nature%1:17:00::
