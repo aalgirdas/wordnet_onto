@@ -1,4 +1,7 @@
 
+estimate%1:04:01::	estimate%1:09:00::
+estimate%1:10:00::	estimate%1:09:00::
+estimate%1:10:01::	estimate%1:09:00::
 energy%1:07:01::	energy%1:07:00::
 energy%1:07:02::	energy%1:07:00::
 emphasis%1:07:00::	emphasis%1:26:00::
