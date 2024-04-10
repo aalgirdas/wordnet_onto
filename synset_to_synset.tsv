@@ -1,4 +1,9 @@
 
+house%1:04:00::	DELETE
+house%1:14:00::	house%1:14:01::
+house%1:14:02::	house%1:14:01::
+house%1:14:03::	house%1:14:01::
+house%1:14:04::	house%1:14:01::
 fire%1:22:00::	fire%1:11:00::
 fire%1:06:00::	fire%1:11:00::
 fire%1:27:01::	fire%1:11:00::
