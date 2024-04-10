@@ -1,4 +1,8 @@
 
+d115.s053	flow%1:04:00::	flow%1:11:00::
+d138.s048	flow%1:22:00::	flow%1:11:00::
+d013.s015	flow%1:22:00::	flow%1:14:00::
+d176.s109	flow%1:22:00::	flow%1:14:00::
 semeval2015.d000.s008	exposure%1:04:01::	exposure%1:07:00::
 d104.s014	exposure%1:10:00::	exposure%1:07:00::
 d104.s011	exposure%1:10:00::	exposure%1:07:00::
