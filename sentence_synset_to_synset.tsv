@@ -1,4 +1,10 @@
 
+d062.s106	word%1:10:03::	word%1:10:00::
+d149.s032	word%1:10:00::	word%1:10:03::
+d141.s168	word%1:10:00::	word%1:10:03::
+d061.s107	word%1:10:00::	word%1:10:03::
+d070.s061	word%1:10:00::	word%1:10:03::
+d108.s162	word%1:10:00::	word%1:10:03::
 d086.s051	experiment%1:04:00::	experiment%1:04:01::
 d043.s034	experiment%1:09:00::	experiment%1:04:01::
 d182.s063	experiment%1:09:00::	experiment%1:04:01::
