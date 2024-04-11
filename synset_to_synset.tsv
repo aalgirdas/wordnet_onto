@@ -1,4 +1,7 @@
 
+voice%1:10:00::	voice%1:07:00::
+voice%1:07:01::	voice%1:07:00::
+voice%1:10:01::	voice%1:04:00::
 lead%1:25:00::	DELETE
 record%1:10:02::	record%1:10:03::
 record%1:21:00::	record%1:10:03::
