@@ -1,5 +1,9 @@
 
-
+d102.s022	percentage%1:21:00::	percentage%1:24:00::
+d148.s008	percentage%1:21:00::	percentage%1:24:00::
+d048.s004	percentage%1:21:00::	percentage%1:24:00::
+d074.s143	percentage%1:21:00::	percentage%1:24:00::
+d053.s116	percentage%1:21:00::	percentage%1:24:00::
 d051.s019	sum%1:06:00::	sum%1:09:00::
 d133.s075	sum%1:14:00::	sum%1:09:01::
 semeval2013.d002.s006	trend%1:15:02::	trend%1:09:00::
