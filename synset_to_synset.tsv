@@ -1,3 +1,5 @@
+
+frequency%1:23:00::	frequency%1:24:00::
 frame%1:28:00::	DELETE
 frame%1:06:00::	frame%1:06:01::
 frame%1:06:02::	frame%1:06:01::
