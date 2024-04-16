@@ -1,3 +1,10 @@
+
+f.79653	length%1:07:00::	length%1:06:00::
+f.79683	length%1:07:00::	length%1:07:01::
+f.137671	length%1:06:00::	length%1:07:01::
+f.79678	length%1:07:00::	length%1:07:01::
+f.79669	length%1:07:00::	length%1:07:02::
+f.79665	length%1:07:00::	length%1:07:01::
 semeval2013.d000.s012	language%1:10:03::	language%1:10:00::
 d016.s041	kingdom%1:15:00::	kingdom%1:26:00::
 d181.s000	isolation%1:26:00::	isolation%1:04:00::
