@@ -1,4 +1,11 @@
 
+d029.s050	signal%1:10:00::	signal%1:19:00::
+d081.s070	signal%1:10:00::	signal%1:19:00::
+d081.s071	signal%1:10:00::	signal%1:19:00::
+d081.s047	signal%1:10:00::	signal%1:19:00::
+d094.s083	signal%1:10:00::	signal%1:19:00::
+d094.s087	signal%1:10:00::	signal%1:19:00::
+d081.s021	signal%1:10:00::	signal%1:19:00::
 d008.s005	shock%1:04:00::	shock%1:12:01::
 d084.s128	scandal%1:11:00::	scandal%1:10:00::
 d100.s020	scale%1:24:03::	scale%1:24:00::
