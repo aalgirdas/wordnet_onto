@@ -1,21 +1,4 @@
 
-n	variation	Cause_change
-n	source	Source_of_getting
-n	sale	Commerce_sell
-n	example	Instance
-n	president	Leadership
-n	absence	Presence
-n	acceptance	Respond_to_proposal
-n	addiction	Addiction
-n	accumulation	Amassing
-n	answer	Communication_response
-n	bell	Noise_makers
-n	benefit	Cause_benefit_or_detriment
-n	copy	Duplication
-n	imagine	Awareness
-n	capability	Capability
-n	commitment	Commitment
-
 
 v	notice	Becoming_aware
 v	offer	Offering
@@ -60,6 +43,25 @@ v	remind	Evoking
 v	ruin	Bungling
 v	specify	Categorization
 
+
+
+
+n	variation	Cause_change
+n	source	Source_of_getting
+n	sale	Commerce_sell
+n	example	Instance
+n	president	Leadership
+n	absence	Presence
+n	acceptance	Respond_to_proposal
+n	addiction	Addiction
+n	accumulation	Amassing
+n	answer	Communication_response
+n	bell	Noise_makers
+n	benefit	Cause_benefit_or_detriment
+n	copy	Duplication
+n	imagine	Awareness
+n	capability	Capability
+n	commitment	Commitment
 
 
 
