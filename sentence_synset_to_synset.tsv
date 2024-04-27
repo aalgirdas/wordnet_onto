@@ -1,4 +1,16 @@
 
+d128.s012	define%2:32:00::	define%2:32:01::
+d055.s007	define%2:32:00::	define%2:32:01::
+d233.s001	define%2:42:00::	define%2:32:01::
+d106.s023	define%2:42:01::	define%2:32:01::
+d106.s092	define%2:42:01::	define%2:32:01::
+d106.s059	define%2:42:01::	define%2:32:01::
+d106.s088	define%2:42:01::	define%2:32:01::
+d106.s054	define%2:42:01::	define%2:32:01::
+d106.s092	define%2:42:01::	define%2:32:01::
+d106.s072	define%2:42:01::	define%2:32:01::
+d106.s071	define%2:42:01::	define%2:32:01::
+d106.s080	define%2:42:01::	define%2:32:01::
 semeval2015.d002.s002	report%2:32:01::	report%2:32:00::
 d174.s187	report%2:32:01::	report%2:32:00::
 d266.s074	report%2:32:01::	report%2:32:00::
