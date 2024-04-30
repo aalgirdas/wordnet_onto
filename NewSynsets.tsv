@@ -1,4 +1,4 @@
-card	penalty_card	penalty%1:04:00::,card%1:27:00::	https://en.wikipedia.org/wiki/Penalty_card
+card	penalty_card	penalty%1:04:00::	https://en.wikipedia.org/wiki/Penalty_card
 cloud	flammagenitus_cloud	cloud%1:19:01::	https://en.wikipedia.org/wiki/Flammagenitus_cloud
 input	text_box	field%1:14:03::	https://en.wikipedia.org/wiki/Text_box
 input_field	text_box	field%1:14:03::	https://en.wikipedia.org/wiki/Text_box
