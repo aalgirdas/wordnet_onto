@@ -1068,10 +1068,6 @@ drive%2:36:00::	drive%2:35:00::
 drive%2:35:07::	drive%2:35:00::
 emerge%2:38:00::	emerge%2:30:00::
 emerge%2:30:02::	emerge%2:30:00::
-
-
-
-
 youth%1:07:00::	youth%1:28:00::
 youth%1:18:00::	youth%1:14:00::
 youth%1:26:00::	youth%1:28:00::
@@ -1736,7 +1732,6 @@ only%4:02:04::	only%4:02:01::
 only%4:02:05::	only%4:02:02::
 only%4:02:06::	only%4:02:02::
 only%4:02:03::	only%4:02:02::
-
 able%5:00:00:capable:00	able%3:00:00::
 able%5:00:00:competent:00	able%3:00:00::
 active%3:00:01::	active%3:00:06::
@@ -1758,7 +1753,3 @@ national%5:00:00:public:00	national%3:00:01::
 new%5:00:00:inexperienced:00	new%3:00:00::
 new%5:00:00:unprecedented:00	new%5:00:00:original:00
 new%5:00:00:other:00	new%3:00:00::
-
-
-
-
