@@ -1,3 +1,14 @@
+senseval3.d000.s006	bright%5:00:00:colorful:00	bright%3:00:00::
+senseval3.d000.s120	bright%5:00:00:reverberant:00	bright%3:00:00::
+d166.s065	active%3:00:02::	active%3:00:01::
+d177.s106	common%3:00:02::	common%5:00:00:shared:00
+semeval2015.d002.s017	public%5:00:00:common:02	public%3:00:00::
+senseval3.d001.s009	public%5:00:00:common:02	public%3:00:00::
+senseval2.d001.s074	same%3:00:00::	same%3:00:02::
+senseval2.d001.s037	genetic%5:00:00:inheritable:00	genetic%3:01:02::
+d090.s015	democratic%3:01:00::	democratic%3:00:00::
+
+
 d023.s119	toss%2:40:00::	toss%2:35:04::
 d068.s094	toss%2:38:00::	toss%2:35:04::
 senseval3.d002.s018	toss%2:38:01::	toss%2:35:04::
@@ -555,13 +566,7 @@ d065.s085	now%4:02:01::	now%4:02:04::
 
 
 
-d166.s065	active%3:00:02::	active%3:00:01::
-d177.s106	common%3:00:02::	common%5:00:00:shared:00
-semeval2015.d002.s017	public%5:00:00:common:02	public%3:00:00::
-senseval3.d001.s009	public%5:00:00:common:02	public%3:00:00::
-senseval2.d001.s074	same%3:00:00::	same%3:00:02::
-senseval2.d001.s037	genetic%5:00:00:inheritable:00	genetic%3:01:02::
-d090.s015	democratic%3:01:00::	democratic%3:00:00::
+
 
 
 d140.s091	wear%2:29:00::	wear%2:42:01::
