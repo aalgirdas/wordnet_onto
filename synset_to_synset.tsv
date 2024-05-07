@@ -1,3 +1,7 @@
+real%3:00:02::	real%3:00:00::
+real%5:00:00:concrete:00	real%3:00:00::
+real%5:00:00:serious:00	real%3:00:00::
+real%5:00:00:true:00	real%3:00:00::
 major%3:00:01::	major%3:00:02::
 major%3:00:05::	major%3:00:06::
 good%3:00:02::	good%3:00:01::
