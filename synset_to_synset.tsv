@@ -14,7 +14,9 @@ only%4:02:06::	only%4:02:02::
 only%4:02:03::	only%4:02:02::
 
 
-
+severe%5:00:00:critical:03	severe%5:00:00:intense:00
+severe%5:00:01:bad:00	severe%5:00:00:intense:00
+severe%5:00:00:plain:01	severe%5:00:02:nonindulgent:00
 silly%5:00:00:undignified:00	silly%5:00:00:foolish:00
 regional%3:01:00::	regional%5:00:00:territorial:00
 political%3:01:02::	political%3:00:00::
