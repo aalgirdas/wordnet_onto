@@ -1,3 +1,7 @@
+president%1:18:03::	president%1:18:01::
+president%1:18:02::	president%1:18:01::
+president%1:18:04::	president%1:18:00::
+president%1:04:04::	president%1:18:00::
 life%1:19:00::	life%1:03:00::
 life%1:16:00::	life%1:28:00::
 life%1:28:01::	life%1:28:00::
@@ -319,7 +323,6 @@ work%1:04:01::	work%1:04:00::
 work%1:09:00::	work%1:04:00::
 report%1:10:01::	report%1:10:00::
 problem%1:09:00::	problem%1:26:00::
-president%1:18:03::	president%1:18:01::
 loss%1:11:00::	loss%1:21:01::
 loss%1:11:01::	loss%1:21:01::
 loss%1:07:00::	loss%1:21:01::
