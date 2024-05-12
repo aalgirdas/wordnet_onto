@@ -433,6 +433,7 @@ semeval2013.d008.s020	performance%1:22:00::	performance%1:04:00::
 semeval2013.d002.s002	point%1:26:00::	point%1:23:01::
 semeval2013.d002.s003	point%1:26:00::	point%1:23:01::
 d012.s026	point%1:15:00::	point%1:09:00::
+d052.s056	point%1:15:00::	point%1:10:01::
 d162.s002	power%1:10:00::	power%1:09:01::
 semeval2013.d003.s016	power%1:10:00::	power%1:09:01::
 d135.s001	side%1:09:00::	side%1:14:00::
