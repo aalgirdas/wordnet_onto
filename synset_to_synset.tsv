@@ -1,3 +1,5 @@
+report%1:10:01::	report%1:10:03::
+report%1:10:00::	report%1:10:03::
 number%1:06:00::	DELETE
 number%1:10:05::	DELETE
 number%1:10:00::	DELETE
