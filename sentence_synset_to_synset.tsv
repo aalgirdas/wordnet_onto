@@ -1,3 +1,6 @@
+semeval2007.d002.s011	status%1:26:00::	status%1:26:01::
+semeval2013.d011.s001	status%1:26:01::	status%1:26:00::
+d024.s047	status%1:26:01::	status%1:26:00::
 d042.s002	sample%1:09:00::	sample%1:09:01::
 d010.s027	sample%1:09:00::	sample%1:09:01::
 senseval3.d002.s082	quiver%1:26:00::	quiver%1:04:00::
