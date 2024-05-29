@@ -1,3 +1,8 @@
+d056.s058	receive%2:40:00::	receive%2:39:03::
+d168.s002	receive%2:40:00::	receive%2:39:03::
+d012.s012	receive%2:39:03::	receive%2:39:00::
+d072.s027	receive%2:39:03::	receive%2:39:00::
+d155.s003	receive%2:30:01::	receive%2:39:00::
 d280.s037	do%2:36:02::	do%2:42:01::
 senseval3.d000.s089	do%2:41:01::	do%2:42:00::
 d024.s021	find%2:32:00::	find%2:32:01::
@@ -522,8 +527,6 @@ semeval2015.d001.s006	window%1:06:03::	software%1:10:00::
 semeval2015.d001.s005	window%1:06:03::	software%1:10:00::
 semeval2015.d001.s050	window%1:06:03::	software%1:10:00::
 semeval2015.d001.s035	window%1:06:03::	software%1:10:00::
-d056.s058	receive%2:40:00::	receive%2:39:03::
-d168.s002	receive%2:40:00::	receive%2:39:03::
 d065.s116	one%1:23:00::	one%1:09:00::
 d084.s000	one%1:23:00::	one%1:09:00::
 d065.s116	one%1:23:00::	one%1:09:00::
