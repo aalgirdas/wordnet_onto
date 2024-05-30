@@ -1415,11 +1415,6 @@ receive%2:32:00::	receive%2:35:00::
 receive%2:39:15::	receive%2:30:01::
 receive%2:41:00::	DELETE
 receive%2:42:00::	DELETE
-see%2:39:11::	DELETE
-see%2:39:12::	DELETE
-see%2:39:13::	DELETE
-see%2:41:00::	DELETE
-see%2:31:13::	DELETE
 take%2:29:08::	DELETE
 take%2:32:09::	DELETE
 take%2:41:13::	DELETE
