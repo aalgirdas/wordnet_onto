@@ -1,3 +1,9 @@
+take%2:29:08::	DELETE
+take%2:32:09::	DELETE
+take%2:41:13::	DELETE
+take%2:32:00::	take%2:30:01::
+take%2:39:00::	take%2:30:01::
+
 see%2:31:00::	see%2:31:02::
 see%2:31:01::	see%2:31:02::
 see%2:31:08::	see%2:31:02::
@@ -1431,11 +1437,6 @@ receive%2:32:00::	receive%2:35:00::
 receive%2:39:15::	receive%2:30:01::
 receive%2:41:00::	DELETE
 receive%2:42:00::	DELETE
-take%2:29:08::	DELETE
-take%2:32:09::	DELETE
-take%2:41:13::	DELETE
-take%2:32:00::	take%2:30:01::
-take%2:39:00::	take%2:30:01::
 start%2:30:01::	start%2:30:00::
 start%2:38:00::	start%2:30:00::
 start%2:41:00::	start%2:30:00::
