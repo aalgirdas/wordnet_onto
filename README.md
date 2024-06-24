@@ -1,5 +1,4 @@
-# wordnet_onto
-WordNet word sense disambiguation and ontology creation
+# wordnet_onto - WordNet word sense disambiguation (WSD) and WordNet ontology creation
 
 This GitHub page provides all the resources needed for the WSD task. The WordNet semantic dictionary is used to define the semantic meanings of a word. The main feature of the system is that in order to use it, it is enough to download one file from this GitHub page:
 
