@@ -105,11 +105,11 @@ world%1:14:01::	world%1:17:00::
 world%1:14:02::	world%1:17:00::
 line%1:25:00::	line%1:10:01::
 line%1:14:03::	line%1:14:01::
-thing%1:09:01::	thing%1:09:02::
+
 thing%1:06:01::	thing%1:06:00::
 things%1:21:00::	thing%1:06:00::
-thing%1:09:00::	thing%1:09:02::
-thing%1:11:00::	thing%1:09:02:
+
+thing%1:11:00::	thing%1:09:02::
 thing%1:10:00::	thing%1:09:02::
 thing%1:07:00::	thing%1:09:02::
 thing%1:26:00::	thing%1:09:02::
